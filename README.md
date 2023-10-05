@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Astrono5
-- 👀 I’m interested in learning about web development
-- 🌱 I’m currently learning Python, and later JavaScript, HTML, CSS and Django Framework
+- 🌱 I’m currently learning Python and C++
