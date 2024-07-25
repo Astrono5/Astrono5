@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Astrono5
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and Rust
